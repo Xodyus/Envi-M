@@ -30,9 +30,10 @@ Ideal Score should be ~50
 
 ##  Images
 
-| CAD Model | Circuit | Output |
-|-----------|---------|--------|
-| ![cad](images/cad_render.png) | ![circuit](images/breadboard_photo.jpg) | ![serial](images/serial_output.png) |
+| CAD Model | Circuit |
+|-----------|---------|
+| <img width="604" height="328" alt="cad_render png" src="https://github.com/user-attachments/assets/76b686bc-504b-4019-8160-595a073501c5" />
+ | <img width="1139" height="452" alt="breadboard_photo jpg" src="https://github.com/user-attachments/assets/bc55bc5d-93a9-4d14-b0a9-97bf4a689b77" />
 
 ##  Files
 
