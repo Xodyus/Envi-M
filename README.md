@@ -26,6 +26,7 @@ The Python script penalizes the score if:
 - Light is too high (>700) for screen work
 
 Final score is capped at 100 and logged with timestamps.
+Ideal Score should be ~50
 
 ##  Images
 
